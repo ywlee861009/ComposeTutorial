@@ -1,2 +1,0 @@
-# ComposeTutorial
-compose tutorial
